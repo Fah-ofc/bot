@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "baileys": "whiskeysockets/baileys",
+    "cfonts": "^3.3.0",
+    "cheerio": "^1.0.0",
+    "figures": "^6.1.0",
+    "inquire": "^0.4.8",
+    "inquirer": "^12.6.0"
+  }
+}
